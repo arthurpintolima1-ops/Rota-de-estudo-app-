@@ -1,0 +1,6 @@
+{
+  "name": "RotaEstudo",
+  "description": "App para lembrar de estudar e manter o foco alternando entre matérias do Ensino Fundamental e Médio com cronômetro pomodoro, rota inteligente e dicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
